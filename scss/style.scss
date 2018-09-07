@@ -1,6 +1,13 @@
 // Google font with effect (effect only for Chrome, Firefox, Opera, Safari)
 @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700&effect=outline");
 
+// Reset
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 // Base
 body {
   display: flex;
